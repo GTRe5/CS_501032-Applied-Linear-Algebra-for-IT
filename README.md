@@ -1,1 +1,1 @@
-# CS_501032-Applied-Linear-Algebra-For-IT
+# CS_501032-Applied-Linear-Algebra-for-IT
